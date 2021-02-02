@@ -16,4 +16,4 @@ npm run build
 ```
 
 ### -Registration form react
-### -Валидация сделанная при помощи react hooks (useState,useSelect)
+### -Валидация сделанная при помощи react hooks (useState,useEffect)
